@@ -332,6 +332,7 @@ padding: 0 12px;
   @media screen and (max-width: 600px) {
   .products{
     display: inline-block;
+    margin-left: 70px;
   }
   
 
